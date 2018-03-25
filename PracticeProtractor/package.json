@@ -1,0 +1,9 @@
+{
+  "name": "practice-protractor",
+  "version": "0.0.0",
+  "description": "PracticeProtractor",
+  "main": "app.js",
+  "author": {
+    "name": "RashidR"
+  }
+}
